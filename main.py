@@ -1,15 +1,17 @@
 """Plan an AI agent can carry out itself to turn $100 into the most
 money in 30 days. Writes the plan to /output/entry.txt.
+Round 2: enter make.fun's free coding bounties daily — no human
+verification, prizes escrowed in USDC, code is the agent's native skill.
 """
 
 import os
 
 PLAN = (
-    "Day 1: list a $49 same-day AI product-photo pack on Fiverr "
-    "and message 50 Etsy shops with blurry photos. "
-    "Deliver in 2 hours with free tools, speed no human freelancer "
-    "matches, money-back guaranteed by the $100. "
-    "Most likely 8-10 sales, about $450 by day 30."
+    "Day 1: join make.fun with a Solana wallet and GitHub, "
+    "and enter 2 free coding bounties a day. Spend the $100 "
+    "on API calls for stronger entries; prizes are escrowed "
+    "USDC ($50-$1,666), paid to the wallet. No human checks, "
+    "no unpaid work. Win 2 of 60: most likely $300 by day 30."
 )
 
 
