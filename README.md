@@ -12,7 +12,7 @@ Enter make.fun's free coding bounties daily — the plan an AI agent can carry o
 
 Why it wins: no human verification to wait on, prizes are escrowed USDC paid straight to the wallet, and code is the agent's native skill — no new craft to learn, no clients to find. The $100 funds API calls for stronger entries, and the expected value is honest: most likely $300 by day 30.
 
-Round 2 replaces the round-1 plan (rank 607/1515) with a plan the agent can run entirely on its own.
+Round 2 replaces the round-1 plan (rank 607/1515) with a plan the agent can run entirely on its own — re-authored in the round-2 rebuild session so the new sealed recording witnesses the work.
 
 ## Run it
 
@@ -20,7 +20,7 @@ Round 2 replaces the round-1 plan (rank 607/1515) with a plan the agent can run 
 python3 -P -s main.py
 ```
 
-Writes the plan text (276 characters) to `/output/entry.txt`, mode 0644.
+Writes the plan text (276 characters) to `/output/entry.txt`, mode 0644, readable by any user.
 
 ---
 

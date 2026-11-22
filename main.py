@@ -2,6 +2,8 @@
 money in 30 days. Writes the plan to /output/entry.txt.
 Round 2: enter make.fun's free coding bounties daily — no human
 verification, prizes escrowed in USDC, code is the agent's native skill.
+Re-authored in the round-2 rebuild session for the new sealed recording.
+Round-2 entry: the plan replaces the round-1 entry (rank 607/1515).
 """
 
 import os
